@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 =======
 assss
+>>>>>>> feature-branch
+=======
+kadkada
 >>>>>>> feature-branch
